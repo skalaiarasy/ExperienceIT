@@ -5,13 +5,13 @@ This project was assigned by `ExperienceIT Detroit program 2021` as part of fina
 
 ## Table of contents
 
-- [Overview](https://github.com/skalaiarasy/StudyBuddy#overview)
-- [Personna](https://github.com/skalaiarasy/StudyBuddy#personna)
-- [User Interface](https://github.com/skalaiarasy/StudyBuddy#user-interface)
-- [Database](https://github.com/skalaiarasy/StudyBuddy#database)
-- [Tools](https://github.com/skalaiarasy/StudyBuddy#tools)
-- [Deployment](https://github.com/skalaiarasy/StudyBuddy#deployment)
-- [References](https://github.com/skalaiarasy/StudyBuddy#references)
+- [Overview](https://github.com/skalaiarasy/Detroit-Coders#overview)
+- [Personna](https://github.com/skalaiarasy/Detroit-Coders#personna)
+- [User Interface](https://github.com/skalaiarasy/Detroit-Coders#user-interface)
+- [Database](https://github.com/skalaiarasy/Detroit-Coders#database)
+- [Tools](https://github.com/skalaiarasy/Detroit-Coders#tools)
+- [Deployment](https://github.com/skalaiarasy/Detroit-Coders#deployment)
+- [References](https://github.com/skalaiarasy/Detroit-Coders#references)
 
 
 ## Overview
