@@ -29,12 +29,7 @@ namespace ExperienceIT.Web.Controllers
         {
             _context.Dispose();
         }
-
-        public IActionResult GetProgramPage(int programId)
-        {
-            return View(programId);
-        }
-
+                
         // GET: Programs
         public async Task<IActionResult> Index()
         {
